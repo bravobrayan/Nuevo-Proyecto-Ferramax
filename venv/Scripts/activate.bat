@@ -8,7 +8,7 @@ if defined _OLD_CODEPAGE (
     "%SystemRoot%\System32\chcp.com" 65001 > nul
 )
 
-set VIRTUAL_ENV=C:\Users\PC\Desktop\ProyectoFerremaxDefinitivo\venv
+set VIRTUAL_ENV=C:\Users\mtand\OneDrive\Documentos\Universidad\V Semestre\2. INTEGRACION DE PLATAFORMAS\Prueba 3\Nuevo-Proyecto-Ferramax\venv
 
 if not defined PROMPT set PROMPT=$P$G
 
